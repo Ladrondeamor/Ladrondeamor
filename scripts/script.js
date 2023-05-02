@@ -12,48 +12,48 @@ new Vue({
         {
           name: "El Ombligo",
           artist: "Ladrón de Amor",
-          cover: "https://raw.githubusercontent.com/kanancho/ladrondeamor/master/img/1.jpg",
-           source: "https://raw.githubusercontent.com/kanancho/ladrondeamor/master/mp3/t1.mp3",
+          cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/1.jpg",
+           source: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/mp3/t1.mp3",
           url: "https://www.youtube.com/watch?v=NFB_WMuKaPw",
           favorited: false
         },
         {
           name: "Bebe o moriré, en proceso",
           artist: "Ladrón de Amor",
-          cover: "https://raw.githubusercontent.com/kanancho/ladrondeamor/master/img/2.jpg",
-           source: "https://raw.githubusercontent.com/kanancho/ladrondeamor/master/mp3/t1.mp3",
+          cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/2.jpg",
+           source: "https://raw.githubusercontent.com/ladrondeamorladrondeamor/ladrondeamor/master/mp3/t1.mp3",
           url: "https://www.youtube.com/watch?v=NFB_WMuKaPw",
           favorited: true
         },
         {
           name: "En la oscuridad, en proceso",
           artist: "Ladrón de Amor",
-          cover: "https://raw.githubusercontent.com/kanancho/ladrondeamor/master/img/3.jpg",
-           source: "https://raw.githubusercontent.com/kanancho/ladrondeamor/master/mp3/t1.mp3",
+          cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/3.jpg",
+           source: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/mp3/t1.mp3",
           url: "https://www.youtube.com/watch?v=NFB_WMuKaPw",
           favorited: false
         },
         {
           name: "Crocante, en proceso",
           artist: "Ladrón de Amor",
-          cover: "https://raw.githubusercontent.com/kanancho/ladrondeamor/master/img/4.jpg",
-           source: "https://raw.githubusercontent.com/kanancho/ladrondeamor/master/mp3/t1.mp3",
+          cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/4.jpg",
+           source: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/mp3/t1.mp3",
           url: "https://www.youtube.com/watch?v=NFB_WMuKaPw",
           favorited: false
         },
         {
           name: "Poco a poco, en proceso",
           artist: "Ladrón de Amor - tributo a Mazo",
-          cover: "https://raw.githubusercontent.com/kanancho/ladrondeamor/master/img/5.jpg",
-          source: "https://raw.githubusercontent.com/kanancho/ladrondeamor/master/mp3/t1.mp3",
+          cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/5.jpg",
+          source: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/mp3/t1.mp3",
           url: "https://www.youtube.com/watch?v=NFB_WMuKaPw",
           favorited: true
         },
         {
           name: "No hay piedad, en proceso",
           artist: "Ladrón de Amor - tributo a Mazo",
-          cover: "https://raw.githubusercontent.com/kanancho/ladrondeamor/master/img/6.jpg",
-          source: "https://raw.githubusercontent.com/kanancho/ladrondeamor/master/mp3/t1.mp3",
+          cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/6.jpg",
+          source: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/mp3/t1.mp3",
           url: "https://www.youtube.com/watch?v=uWBLtgYUbro",
           favorited: false
         }
