@@ -34,10 +34,10 @@ new Vue({
           favorited: false
         },
         {
-          name: "Crocante, en proceso",
+          name: "Crocante",
           artist: "Ladrón de Amor",
           cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/4.jpg",
-           source: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/mp3/t1.mp3",
+           source: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/mp3/t4.mp3",
           url: "https://www.youtube.com/watch?v=NFB_WMuKaPw",
           favorited: false
         },
