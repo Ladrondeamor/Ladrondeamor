@@ -18,14 +18,6 @@ new Vue({
           favorited: false
         },
         {
-          name: "Bebe o moriré, en proceso",
-          artist: "Ladrón de Amor",
-          cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/2.jpg",
-           source: "https://raw.githubusercontent.com/ladrondeamorladrondeamor/ladrondeamor/master/mp3/t1.mp3",
-          url: "https://www.youtube.com/watch?v=NFB_WMuKaPw",
-          favorited: true
-        },
-        {
           name: "En la oscuridad",
           artist: "Ladrón de Amor",
           cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/3.jpg",
