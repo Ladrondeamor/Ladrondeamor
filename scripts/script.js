@@ -26,10 +26,10 @@ new Vue({
           favorited: true
         },
         {
-          name: "En la oscuridad, en proceso",
+          name: "En la oscuridad",
           artist: "Ladrón de Amor",
           cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/3.jpg",
-           source: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/mp3/t1.mp3",
+           source: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/mp3/t3.mp3",
           url: "https://www.youtube.com/watch?v=NFB_WMuKaPw",
           favorited: false
         },
@@ -42,16 +42,16 @@ new Vue({
           favorited: false
         },
         {
-          name: "Poco a poco, en proceso",
-          artist: "Ladrón de Amor - tributo a Mazo",
+          name: "Enjaulados",
+          artist: "Ladrón de Amor",
           cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/5.jpg",
-          source: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/mp3/t1.mp3",
+          source: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/mp3/t5.mp3",
           url: "https://www.youtube.com/watch?v=NFB_WMuKaPw",
           favorited: true
         },
         {
-          name: "No hay piedad, en proceso",
-          artist: "Ladrón de Amor - tributo a Mazo",
+          name: "Clip del demonio, en producción",
+          artist: "Ladrón de Amor",
           cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/6.jpg",
           source: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/mp3/t1.mp3",
           url: "https://www.youtube.com/watch?v=uWBLtgYUbro",
