@@ -28,7 +28,7 @@ new Vue({
         {
           name: "Crocante",
           artist: "Ladrón de Amor",
-          cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/4.jpg",
+          cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/4.png",
            source: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/mp3/t4.mp3",
           url: "https://www.youtube.com/watch?v=NFB_WMuKaPw",
           favorited: false
