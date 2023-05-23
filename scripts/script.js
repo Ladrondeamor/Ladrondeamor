@@ -20,7 +20,7 @@ new Vue({
         {
           name: "En la oscuridad",
           artist: "Ladrón de Amor",
-          cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/3.jpg",
+          cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/3.pgn",
            source: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/mp3/t3.mp3",
           url: "https://www.youtube.com/watch?v=NFB_WMuKaPw",
           favorited: false
@@ -36,7 +36,7 @@ new Vue({
         {
           name: "Enjaulados",
           artist: "Ladrón de Amor",
-          cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/5.jpg",
+          cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/5.pgn",
           source: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/mp3/t5.mp3",
           url: "https://www.youtube.com/watch?v=NFB_WMuKaPw",
           favorited: true
