@@ -17,6 +17,14 @@ new Vue({
           url: "https://www.youtube.com/watch?v=NFB_WMuKaPw",
           favorited: false
         },
+         {
+          name: "En la oscuridad",
+          artist: "Bebe o moriré",
+          cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/2.jpg",
+           source: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/mp3/t2.mp3",
+          url: "https://www.youtube.com/watch?v=NFB_WMuKaPw",
+          favorited: false
+        },
         {
           name: "En la oscuridad",
           artist: "Ladrón de Amor",
@@ -38,16 +46,8 @@ new Vue({
           artist: "Ladrón de Amor",
           cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/5.jpg",
           source: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/mp3/t5.mp3",
-          url: "https://www.youtube.com/watch?v=NFB_WMuKaPw",
+          url: "https://www.youtube.com/watch?v=kixdO44uOg4",
           favorited: true
-        },
-        {
-          name: "Clip del demonio, en producción",
-          artist: "Ladrón de Amor",
-          cover: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/img/6.jpg",
-          source: "https://raw.githubusercontent.com/ladrondeamor/ladrondeamor/master/mp3/t1.mp3",
-          url: "https://www.youtube.com/watch?v=uWBLtgYUbro",
-          favorited: false
         }
       ],
       currentTrack: null,
